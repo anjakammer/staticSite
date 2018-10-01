@@ -1,7 +1,7 @@
 # Website without a server
 This is about how to publish a static website with [GitHub Pages](https://help.github.com/articles/what-is-github-pages/).
 
-Originally, this workshop was helt on 11. September 2018 - at the University for Applied Sciences Berlin as part of a summer break coding camp.
+Originally, this workshop was held on 12. September 2018 - at the University for Applied Sciences Berlin as part of a summer break coding camp.
 
 ### Prerequisites
 - [GitHub Account](https://github.com/)
